@@ -1,0 +1,9 @@
+Programos vartotojo vadovas
+Tekstiniame faile privalo būti surašytas autobusų maršrutas. Pirmojoje eilutėje parašytas 
+esamos stoties miestas, kitose išvykimo miestas, išvykimo laikas, atvykimo miestas, atvykimo laikas ir 
+savaitės diena. Kitame tekstiniame faile privalo būti pateiktos maršrutų kainos. Kiekvienoje eilutėje 
+parašytas miestas ir kaina. Tada maršrutai ir jų kainos nuskaitomos, įkeliant jų duomenų tekstinius 
+failus per internetinę sąsają ir sudedamos į lenteles ir parodomos internetinėje sąsajoje. Ten taip pat 
+randamas populiariausias atvykimo miestas ir randami netranzitiniai maršrutai į ta miestą. Kitoje 
+eilutėje galima įrašyti miesto pavadinimą , laikus ir dieną tarp kurių ieškomi pigiausi maršrutai. Jie bus 
+surasti ir parodyti lentelėje
