@@ -1,0 +1,8 @@
+Trakai;3.25
+Klaipėda;16.20
+Kaunas;6
+Palanga;17.30
+Marijampolė;7.49
+Telšiai;14.11
+Mažeikiai;15.50
+Druskininkai;6.15

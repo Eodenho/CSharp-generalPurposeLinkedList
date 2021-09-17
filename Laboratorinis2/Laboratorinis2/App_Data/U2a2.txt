@@ -1,0 +1,10 @@
+Vilnius
+Šiauliai;8:30;Trakai;14:00;5
+Vilnius;08:00;Klaipėda;12:50;3
+Vilnius;17:00;Kaunas;18:20;3
+Elektrėnai;11:00;Palanga;18:15;4
+Panėvežys;09:30;Marijampolė;17:10;3
+Vilnius;15:15;Telšiai;20:30;7
+Biržai;07:30;Druskininkai;19:15;1
+Klaipėda;11:30;Trakai;17:00;2
+Vilnius;09:00;Mažeikiai;16:45;3

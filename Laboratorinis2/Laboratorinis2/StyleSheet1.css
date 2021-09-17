@@ -1,0 +1,20 @@
+﻿body {
+    background-color:lightskyblue;
+}
+
+#Table1{
+    background-color:lightyellow;
+}
+#Table2{
+    background-color:burlywood;
+}
+#Table3{
+    background-color:gainsboro;
+}
+#Table4{
+    background-color:linen;
+}
+#Label1, #Label2, #Label3, #Label4 {
+    font-weight: bold;
+    font-size: x-large;
+}

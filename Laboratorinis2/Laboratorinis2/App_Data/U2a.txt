@@ -1,0 +1,13 @@
+Kaunas
+Plunge;11:00;Šiauliai;18:30;4
+Klaipeda;13:30;Vilnius;20:30;5
+Vilnius;12:00;Klaipeda;16:40;3
+Kaunas;15:50;Klaipeda;18:40;5
+Panevezys;14:00;Marijampole;18:45;1
+Palanga;08:30;Trakai;17:40;2
+Skuodas;12:30;Vilnius;20:00;5
+Alytus;16:40;Vilnius;20:30;4
+Kaunas;14:30;Vilnius;16:00;5
+Alytus;10:00;Vilnius;16:15;4
+Kaunas;9:30;Vilnius;12:00;7
+Kaunas;10:00;Birzai;17:20;6

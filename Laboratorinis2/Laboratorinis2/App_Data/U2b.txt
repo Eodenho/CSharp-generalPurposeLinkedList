@@ -1,0 +1,5 @@
+Vilnius;7.25
+Šiauliai;12
+Klaipeda;13.30
+Marijampole;8
+Trakai;15.20

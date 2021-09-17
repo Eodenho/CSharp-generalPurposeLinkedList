@@ -1,0 +1,81 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Laboratorinis2.Classes.InOut">
+    <Position X="2.5" Y="5.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAgABhAAAAAAAAAAACAAAAQAAAAAABAgEAAAAAAAI=</HashCode>
+      <FileName>Classes\InOut.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Laboratorinis2.Classes.PopularRoute">
+    <Position X="2.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAIAAAAAIEgACAEgAAAAAAAIAQAAAAAAAAAAA=</HashCode>
+      <FileName>Classes\PopularRoute.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Laboratorinis2.Classes.PopularRouteLinkList">
+    <Position X="4.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAgAAAAgAAAAIBAAAAQAAAAAABAAAAAAAAAQBEAAgA=</HashCode>
+      <FileName>Classes\PopularRouteLinkList.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Laboratorinis2.Classes.PopularRouteNode">
+    <Position X="8.5" Y="5.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAAQAAAAAA=</HashCode>
+      <FileName>Classes\PopularRouteNode.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Laboratorinis2.Classes.Route">
+    <Position X="8.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAIAAAAAIEgAAAEAAAAAAAAIAQAAAAAAAAAAA=</HashCode>
+      <FileName>Classes\Route.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Laboratorinis2.Classes.RouteLinkList">
+    <Position X="0.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAIAAgAAIAIDAAAAAAAAQAABAAAAAAAIAQBECAgA=</HashCode>
+      <FileName>Classes\RouteLinkList.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Laboratorinis2.Classes.RouteNode">
+    <Position X="0.5" Y="5.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAAQAAAAAA=</HashCode>
+      <FileName>Classes\RouteNode.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Laboratorinis2.Classes.RoutePrice">
+    <Position X="6.5" Y="5.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAQAAAAAEAAAAAAAAAAAAAAAQAAAAAAAAAAA=</HashCode>
+      <FileName>Classes\RoutePrice.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Laboratorinis2.Classes.RoutePriceLinkList">
+    <Position X="6.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>IAAAAAAAgAAAAIBAAAAAAAAAAABAAAAAAAAAQBEAAgA=</HashCode>
+      <FileName>Classes\RoutePriceLinkList.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Laboratorinis2.Classes.RoutePriceNode">
+    <Position X="4.5" Y="5.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAAQAAAAAA=</HashCode>
+      <FileName>Classes\RoutePriceNode.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Laboratorinis2.WebForm1">
+    <Position X="10.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAEAAQAAAgACAAQAgAIAAQQAAAAAAACAIAAAA=</HashCode>
+      <FileName>WebForm1.aspx.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
